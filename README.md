@@ -13,17 +13,19 @@ Welcome to my GitHub profile! I'm Pradeep Kumar, a passionate full-stack enginee
 
 ### 🛠️ Technologies & Tools
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws) 
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
 
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradeepkumarjse/)
+[![X.com](https://img.shields.io/badge/X.com-black?style=flat&logo=xing)](https://x.com/pradeepkumarjse)
+
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate!
