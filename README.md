@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm Pradeep Kumar, a passionate full-stack engineer with a keen interest in exploring the vast world of technology. Here's a bit about me:
 
-- 👀 **Interests**: Full-stack development, DevOps engineering, open-source projects, and cutting-edge technologies.
+- 👀 **Interests**: full-stack development, devops engineering, open-source projects, and cutting-edge technologies.
 - 🌱 **Currently Learning**: Continuously expanding my knowledge in various tech domains and staying updated with the latest trends.
 - 💞️ **Looking to Collaborate**: I'm open to collaborating on any exciting open-source projects. Let's build something great together!
 - 📫 **Reach Me**: Feel free to reach out to me at [pradeepkumarjse@gmail.com](mailto:pradeepkumarjse@gmail.com) for any inquiries or collaboration opportunities.
