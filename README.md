@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm Pradeep Kumar, a passionate full-stack enginee
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws) 
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services) 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
 
