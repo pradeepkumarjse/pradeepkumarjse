@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Pradeep Kumar, a passionate full-stack enginee
 
 ### 🛠️ Technologies & Tools
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk) 
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm Pradeep Kumar, a passionate full-stack enginee
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradeepkumarjse/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/pradeepkumarjse)
 [![X.com](https://img.shields.io/badge/X.com-black?style=flat&logo=xing)](https://x.com/pradeepkumarjse)
 
 
