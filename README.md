@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm Pradeep Kumar, a passionate full-stack enginee
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradeepkumarjse/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/pradeepkumarjse)
 [![X.com](https://img.shields.io/badge/X.com-black?style=flat&logo=xing)](https://x.com/pradeepkumarjse)
 
 
