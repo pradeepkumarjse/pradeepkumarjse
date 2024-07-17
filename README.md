@@ -1,15 +1,12 @@
-# 👋 Hi, I’m @pradeepkumarjse
+# 👋 Hi, I’m Pradeep Kumar Yadav
 
-Welcome to my GitHub profile! I'm Pradeep Kumar, a passionate full-stack engineer with a keen interest in exploring the vast world of technology. Here's a bit about me:
-
-- 👀 **Interests**: Full-stack development, devops engineering, open-source projects, and cutting-edge technologies.
-- 🌱 **Currently Learning**: Continuously expanding my knowledge in various tech domains and staying updated with the latest trends.
-- 💞️ **Looking to Collaborate**: I'm open to collaborating on any exciting open-source projects. Let's build something great together!
-- 📫 **Reach Me**: Feel free to reach out to me at [pradeepkumarjse@gmail.com](mailto:pradeepkumarjse@gmail.com) for any inquiries or collaboration opportunities.
-
-### 📊 GitHub Stats
-
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepkumarjse&show_icons=true&theme=radical)
+<ul>
+  <li>👨‍💻 Senior Full Stack Engineer</li>
+ <li> 👀 **Interests**: Full-stack development, devops engineering, open-source projects, and cutting-edge technologies.
+ <li> 🌱 **Currently Learning**: Continuously expanding my knowledge in various tech domains and staying updated with the latest trends.
+ <li> 💞️ **Looking to Collaborate**: I'm open to collaborating on any exciting open-source projects. Let's build something great together!
+ <li> 📫 **Reach Me**: Feel free to reach out to me at [pradeepkumarjse@gmail.com](mailto:pradeepkumarjse@gmail.com) for any inquiries or collaboration opportunities.
+</ul>
 
 ### 🛠️ Technologies & Tools
 
