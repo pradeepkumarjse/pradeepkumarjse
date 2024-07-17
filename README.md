@@ -13,12 +13,16 @@
 
 ### 🛠️ Technologies & Tools
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
+![Java](https://img.shields.io/badge/-Java-C71A36?style=flat&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services) 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
