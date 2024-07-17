@@ -1,11 +1,12 @@
-# 👋 Hi, I’m Pradeep Kumar Yadav
-
+<h1 align="center">Hi there, I'm Pradeep <img src="assets/hi.gif" width="30px"></h1>
+<p align="center">
+  <a target="_blank" href="mailto:pradeepkumarjse@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/pradeepkumarjse/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
+</p>
 <ul>
   <li>👨‍💻 Senior Full Stack Engineer</li>
- <li> 👀 **Interests**: Full-stack development, devops engineering, open-source projects, and cutting-edge technologies.
- <li> 🌱 **Currently Learning**: Continuously expanding my knowledge in various tech domains and staying updated with the latest trends.
- <li> 💞️ **Looking to Collaborate**: I'm open to collaborating on any exciting open-source projects. Let's build something great together!
- <li> 📫 **Reach Me**: Feel free to reach out to me at [pradeepkumarjse@gmail.com](mailto:pradeepkumarjse@gmail.com) for any inquiries or collaboration opportunities.
+  <li>💬 I'm ready to assume responsibility and act as your right hand in accomplishing the task..</li>
+  <li>📫 Feel free to reach out to me at <a href="mailto:pradeepkumarjse@gmail.com">pradeepkumarjse@gmail.com</a></li>
 </ul>
 
 ### 🛠️ Technologies & Tools
