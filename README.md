@@ -8,7 +8,6 @@
 
 ### 🌐 Connect with Me
 
-<a target="_blank" href="mailto:pradeepkumarjse@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradeepkumarjse/)
 [![X.com](https://img.shields.io/badge/X.com-black?style=flat&logo=xing)](https://x.com/pradeepkumarjse)
 
@@ -23,15 +22,11 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
 
-
-
 <h3>⚙️ GitHub Analytics</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=pradeepkumarjse&show_icons=true&theme=gotham&hide_border=1&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepkumarjse&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" />
   <img src="https://github-profile-trophy.vercel.app/?username=pradeepkumarjse&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" />
 </p>
-
-
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate!
