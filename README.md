@@ -14,7 +14,7 @@
 ### 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Gradle](https://img.shields.io/badge/-Gradle-333333?style=flat&logo=gradle)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring-boot) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
