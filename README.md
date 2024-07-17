@@ -21,12 +21,21 @@
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) 
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services) 
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Pipeline](https://img.shields.io/badge/-Pipeline-00BFFF?style=flat&logo=pipe&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
 
 <h3>⚙️ GitHub Analytics</h3>
 <p>
