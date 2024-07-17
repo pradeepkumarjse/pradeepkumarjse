@@ -30,12 +30,11 @@
 ![GoDaddy](https://img.shields.io/badge/-GoDaddy-333333?style=flat&logo=godaddy&logoColor=7DBD00)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare&logoColor=F38020)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Pipeline](https://img.shields.io/badge/-Pipeline-00BFFF?style=flat&logo=pipe&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions&logoColor=2088FF)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache&logoColor=D22128)
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx&logoColor=009639)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
 
 <h3>⚙️ GitHub Analytics</h3>
