@@ -1,13 +1,16 @@
-<h1 align="center">Hi there, I'm Pradeep <img src="assets/hi.gif" width="30px"></h1>
-<p align="center">
-  <a target="_blank" href="mailto:pradeepkumarjse@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://www.linkedin.com/in/pradeepkumarjse/"><img alt="Connect with me" src="https://img.shields.io/badge/LinkedIn-blue.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
-</p>
+<h1 align="center">👋 Hi there, I'm Pradeep <img src="assets/hi.gif" width="30px"></h1>
+
 <ul>
   <li>👨‍💻 Senior Full Stack Engineer</li>
   <li>💬 I'm ready to assume responsibility and act as your right hand in accomplishing the task..</li>
   <li>📫 Feel free to reach out to me at <a href="mailto:pradeepkumarjse@gmail.com">pradeepkumarjse@gmail.com</a></li>
 </ul>
+
+### 🌐 Connect with Me
+
+<a target="_blank" href="mailto:pradeepkumarjse@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/Email-c14438.svg?&style=flat-square&logo=gmail&logoColor=white"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradeepkumarjse/)
+[![X.com](https://img.shields.io/badge/X.com-black?style=flat&logo=xing)](https://x.com/pradeepkumarjse)
 
 ### 🛠️ Technologies & Tools
 
@@ -19,11 +22,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services) 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) 
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pradeepkumarjse/)
-[![X.com](https://img.shields.io/badge/X.com-black?style=flat&logo=xing)](https://x.com/pradeepkumarjse)
 
 
 
