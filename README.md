@@ -8,7 +8,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2))](https://www.linkedin.com/in/pradeepkumarjse/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pradeepkumarjse/)
 [![X.com](https://img.shields.io/badge/X.com-black?style=flat&logo=xing)](https://x.com/pradeepkumarjse)
 
 ### 🛠️ Technologies & Tools
