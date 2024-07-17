@@ -28,4 +28,14 @@ Welcome to my GitHub profile! I'm Pradeep Kumar, a passionate full-stack enginee
 [![X.com](https://img.shields.io/badge/X.com-black?style=flat&logo=xing)](https://x.com/pradeepkumarjse)
 
 
+
+<h3>⚙️ GitHub Analytics</h3>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepkumarjse&show_icons=true&theme=gotham&hide_border=1&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepkumarjse&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pradeepkumarjse&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6" />
+</p>
+
+
+
 Feel free to explore my repositories and get in touch if you'd like to collaborate!
