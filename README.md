@@ -28,6 +28,8 @@
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=mssql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws&logoColor=white)
+![GoDaddy](https://img.shields.io/badge/-GoDaddy-333333?style=flat&logo=godaddy&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions&logoColor=white)
 ![Pipeline](https://img.shields.io/badge/-Pipeline-333333?style=flat&logo=pipe&logoColor=white)
@@ -36,8 +38,6 @@
 ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=white)
-![GoDaddy](https://img.shields.io/badge/-GoDaddy-333333?style=flat&logo=godaddy&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare&logoColor=white)
 
 <h3>⚙️ GitHub Analytics</h3>
 <p>
